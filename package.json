@@ -1,20 +1,25 @@
 {
   "name": "rocket.q-project",
   "version": "1.0.0",
-  "description": "<p align=\"center\">   <img alt=\"GitHub language count\" src=\"https://img.shields.io/github/languages/count/antuniooh/rocket.q-project\">",
-  "main": "index.js",
+  "description": "Projeto desenvolvido para gerenciar perguntas anonimas de usuários direcionadas ao dono da página. Projeto desenvolvido na semana NLW Rocketseat na missão discover",
+  "main": "src/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/antuniooh/rocket.q-project.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Antonio Muniz",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/antuniooh/rocket.q-project/issues"
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "route": "^0.2.5"
   },
-  "homepage": "https://github.com/antuniooh/rocket.q-project#readme"
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
