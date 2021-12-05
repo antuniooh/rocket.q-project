@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/antuniooh/rocket.q-project">
-    <img src="https://user-images.githubusercontent.com/38081852/83580830-6f63e200-a513-11ea-9a27-0a109ec1e4d0.png" alt="Logo" width="550">
+    <img src="https://github.com/jakeliny/Rocket.Q/blob/main/.github/rocketq.png" alt="Logo" width="550">
   </a>
 </p>
 
