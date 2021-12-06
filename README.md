@@ -43,7 +43,7 @@
 ## 💻 About The Project
 Development of Rocket.q website, project given at NLW Together by Rocketseat. It consists of a website where the user can anonymously create rooms for questions
 
-![app](https://github.com/antuniooh/rocket.q-project/blob/master/images/app.gif)
+![app](images/app.gif)
 
 
 <!-- HOW TO RUN -->
@@ -62,6 +62,9 @@ $ cd rocket.q-project
 
 # Install libs
 $ npm install
+
+# Create database
+$ npm run init-db
 
 # Deploy 
 $ npm start
